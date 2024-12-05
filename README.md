@@ -78,6 +78,8 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
+<h2>Preview:</h2>
+
 <div style="display: flex; gap: 10px;">
 <img src="ReadMe_Img/7.jpg" alt="Alt text" width="20%">
 <img src="ReadMe_Img/8.jpg" alt="Alt text" width="20%">
